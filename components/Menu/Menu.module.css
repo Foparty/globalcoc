@@ -1,0 +1,8 @@
+.menu:after {
+	position: absolute;
+	content: "";
+	inset: 0;
+	width: 3px;
+	margin-left: auto;
+	background: hsl(0deg 100% 100% / 0.3);
+}
